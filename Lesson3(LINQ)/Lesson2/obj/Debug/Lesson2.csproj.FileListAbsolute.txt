@@ -1,0 +1,16 @@
+C:\Users\Artem\Desktop\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\Artem\Desktop\Lesson2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\Artem\Desktop\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\Artem\Desktop\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\Artem\Desktop\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson2\Lesson2\obj\Debug\Lesson2.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson3(LINQ)\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson3(LINQ)\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson3(LINQ)\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson3(LINQ)\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\Artem\Desktop\BinaryAcademy\Lesson3(LINQ)\Lesson2\bin\Debug\Lesson2.pdb
